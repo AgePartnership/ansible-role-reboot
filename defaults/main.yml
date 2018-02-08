@@ -1,6 +1,6 @@
 ---
 # defaults file for reboot
-
+reboot: true
 # Reboot message
 reboot_message: 'Reboot by Ansible'
 
